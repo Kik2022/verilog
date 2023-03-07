@@ -1,4 +1,4 @@
-module adder_(a,b,f)
+module and_gate(a,b,f)
 input a,b;
 output f;
 assign f=a&b;
